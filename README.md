@@ -53,4 +53,3 @@ Aplikasi mobile lintas platform dengan antarmuka dinamis dan _smooth_.
 
 ---
 
-_Dibuat dengan ❤️ untuk komunitas Wibu._
