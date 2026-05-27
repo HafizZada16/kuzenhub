@@ -10,7 +10,7 @@ Kuzen adalah platform streaming komprehensif yang dikhususkan untuk para penggem
 ## Live Demo & Download
 
 - **Website Resmi:** [Kuzen Web](https://kuzen.web.id) _(Ubah dengan link web Anda)_
-- **Download Aplikasi Android:** [Unduh APK Kuzen Terbaru (v1.1.3)](https://github.com/HafizZada16/kuzenhub/releases/latest)
+- **Download Aplikasi Android:** [Unduh APK Kuzen Terbaru](https://github.com/HafizZada16/kuzenhub/releases/latest)
 
 ---
 
