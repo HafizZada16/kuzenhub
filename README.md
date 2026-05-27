@@ -1,4 +1,4 @@
-# Kuzen Project 🎬🎌
+# Kuzen Project 
 
 Kuzen adalah platform streaming komprehensif yang dikhususkan untuk para penggemar Anime, Donghua, dan Komik (Manga/Manhwa/Manhua). Proyek ini terdiri dari dua bagian utama:
 1. **Kuzen Web & Backend (`kuzen_v4`)** - Dibangun dengan Laravel.
@@ -6,14 +6,14 @@ Kuzen adalah platform streaming komprehensif yang dikhususkan untuk para penggem
 
 ---
 
-## 🚀 Live Demo & Download
+## Live Demo & Download
 
-- 🌐 **Website Resmi:** [Kunjungi Kuzen Web](https://domain-anda.com) *(Ubah dengan link web Anda)*
-- 📱 **Download Aplikasi Android:** [Unduh APK Kuzen Terbaru (v1.1.3)](https://github.com/username/repo/releases/latest) *(Ubah dengan link rilis GitHub/APK Anda)*
+- **Website Resmi:** [Kuzen Web](https://kuzen.web.id) *(Ubah dengan link web Anda)*
+- **Download Aplikasi Android:** [Unduh APK Kuzen Terbaru (v1.1.3)]([https://github.com/username/repo/releases/latest](https://github.com/HafizZada16/kuzenhub/releases/latest)) *(Ubah dengan link rilis GitHub/APK Anda)*
 
 ---
 
-## 📦 Arsitektur Proyek
+## Arsitektur Proyek
 
 ### 1. Backend & Web (`kuzen_v4`)
 Sistem backend yang melayani Website sekaligus menyediakan API yang aman untuk aplikasi mobile.
@@ -37,7 +37,7 @@ Aplikasi mobile lintas platform dengan antarmuka dinamis dan *smooth*.
 
 ---
 
-## 🛠️ Instalasi & Pengembangan Lokal
+## Instalasi & Pengembangan Lokal
 
 ### Menjalankan Backend (`kuzen_v4`)
 1. Masuk ke direktori: `cd kuzen_v4`
@@ -67,7 +67,7 @@ cd kuzen_app/android
 
 ---
 
-## ✨ Fitur Terbaru (Changelog v1.1.3)
+## Fitur Terbaru (Changelog v1.1.3)
 - Pembaruan mekanisme API dari `PUT` ke `POST` agar lebih stabil di *shared hosting*.
 - Perbaikan *stale closure bug* pada pembaruan akun ganda secara bersamaan.
 - UI *Floating Header* yang 100% aman untuk semua layar *Android* & *iOS*.
