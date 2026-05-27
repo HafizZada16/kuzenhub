@@ -37,33 +37,14 @@ Aplikasi mobile lintas platform dengan antarmuka dinamis dan *smooth*.
 
 ---
 
-## Instalasi & Pengembangan Lokal
+## Fitur Unggulan
 
-### Menjalankan Backend (`kuzen_v4`)
-1. Masuk ke direktori: `cd kuzen_v4`
-2. Instal dependensi PHP: `composer install`
-3. Salin file environment: `cp .env.example .env`
-4. Konfigurasikan kunci rahasia Supabase Anda di `.env`:
-   ```env
-   SUPABASE_URL=https://xyz.supabase.co
-   SUPABASE_SERVICE_KEY=your-service-key
-   ```
-5. Jalankan server lokal: `php artisan serve`
-
-### Menjalankan Mobile App (`kuzen_app`)
-1. Masuk ke direktori: `cd kuzen_app`
-2. Instal dependensi Node.js: `npm install`
-3. Pastikan konfigurasi URL API Laravel Anda sudah disesuaikan di dalam folder `src/services`.
-4. Jalankan Expo: `npm run start`
-   - Tekan `a` untuk menjalankan emulator Android, atau *scan* QR code menggunakan aplikasi Expo Go di HP Anda.
-
-### Membangun APK (Release)
-Untuk mem-build APK versi rilis secara lokal:
-```bash
-cd kuzen_app/android
-.\gradlew assembleRelease
-```
-*(File APK akan berada di `android/app/build/outputs/apk/release/`)*
+- **Katalog Terpadu:** Platform serba ada untuk menonton Anime & Donghua, serta membaca Komik (Manga/Manhwa/Manhua).
+- **Streaming Cepat & Multi-Server:** Nikmati tontonan dengan opsi resolusi mulai dari 360p hingga 1080p secara stabil.
+- **Reader Komik Interaktif:** Pengalaman membaca yang mulus dan dirancang khusus untuk kenyamanan di perangkat *mobile*.
+- **Bookmark & Riwayat Otomatis:** Lanjutkan episode atau chapter yang tertunda dan simpan semua daftar tontonan favorit Anda.
+- **Manajemen Profil Penuh:** Kontrol akun Anda sepenuhnya—mulai dari username, email, kata sandi, hingga sinkronisasi otomatis foto profil.
+- **Antarmuka Modern:** Desain UI dinamis, elegan, dan dioptimalkan (aman dari *notch* & *punch-hole*) untuk Android & iOS.
 
 ---
 
